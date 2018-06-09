@@ -1,4 +1,4 @@
-require_relative("./user.rb")
+require_relative "./user.rb"
 require_relative "./vehicle.rb"
 class Teacher < User
 
